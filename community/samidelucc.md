@@ -8,7 +8,7 @@
 <center style="background-color:#A070A1;color:#E2DFD0"><h3>Developments
 <table>
     <tr>
-        <td><a style="color:#33186B;" href="https://loremoonia.verceu.app">Front-end</a></td>
+        <td><a style="color:#33186B;" href="https://loremoonia.vercel.app">Front-end</a></td>
         <td><a style="color:#5FBDFF"; href="https://www.dio.me/users/sonicro13"> Back-end</h3></a></td>
     </tr>
 </table>
